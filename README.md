@@ -2,6 +2,8 @@
 
 A personal CV/resume website designed and developed using **HTML5 and CSS3**.
 
+Live Link:  https://shuvo8000.github.io/Resume/
+
 ## 👨‍💻 About
 
 I am a **Computer Science & Engineering student** at **Southeast University, Bangladesh**, currently studying in my **3rd Year, 4th Semester**.
